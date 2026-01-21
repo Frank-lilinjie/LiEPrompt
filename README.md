@@ -25,12 +25,12 @@ python main.py --config ./exps/[datasets]/[filename].json
 
 if you want to run the cifar dataset using ViT-B/16-IN1K, you can follow the script: 
 ```
-python main.py --config ./exps/cifar/mote.json
+python main.py --config ./exps/cifar/lieprompt.json
 ```
 
 if you want to run the cifar dataset using ViT-B/16-IN21K, you can follow the script: 
 ```
-python main.py --config ./exps/cifar/mote_in21k.json
+python main.py --config ./exps/cifar/lieprompt_in21k.json
 ```
 
 
